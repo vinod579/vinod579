@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm k vinod</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate python fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **fullstack development**
 
 - 👯 I’m looking to collaborate on **software developer**
 
